@@ -1,0 +1,87 @@
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\appsettings.Development.json
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\appsettings.json
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Servicios.api.Gateway.exe
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Servicios.api.Gateway.deps.json
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Servicios.api.Gateway.runtimeconfig.json
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Servicios.api.Gateway.runtimeconfig.dev.json
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Servicios.api.Gateway.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\ref\Servicios.api.Gateway.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Servicios.api.Gateway.pdb
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\FluentValidation.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Ocelot.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.AssemblyInfoInputs.cache
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.AssemblyInfo.cs
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.csproj.CoreCompileInputs.cache
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\staticwebassets\Servicios.api.Gateway.StaticWebAssets.Manifest.cache
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\staticwebassets\Servicios.api.Gateway.StaticWebAssets.xml
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\scopedcss\bundle\Servicios.api.Gateway.styles.css
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.RazorTargetAssemblyInfo.cache
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.csproj.CopyComplete
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\ref\Servicios.api.Gateway.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.pdb
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.genruntimeconfig.cache
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\ocelot.json
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\MicroserviceVaxi\Microservices\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.csprojAssemblyReference.cache
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\appsettings.json
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\ocelot.json
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Servicios.api.Gateway.StaticWebAssets.xml
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Servicios.api.Gateway.exe
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Servicios.api.Gateway.deps.json
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Servicios.api.Gateway.runtimeconfig.json
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Servicios.api.Gateway.runtimeconfig.dev.json
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Servicios.api.Gateway.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Servicios.api.Gateway.pdb
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\Ocelot.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.csproj.AssemblyReference.cache
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\scopedcss\bundle\Servicios.api.Gateway.styles.css
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\staticwebassets\Servicios.api.Gateway.StaticWebAssets.Manifest.cache
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\staticwebassets\Servicios.api.Gateway.StaticWebAssets.Pack.cache
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\staticwebassets\msbuild.Servicios.api.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\staticwebassets\msbuild.build.Servicios.api.Gateway.props
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Servicios.api.Gateway.props
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Servicios.api.Gateway.props
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.csproj.CopyComplete
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\refint\Servicios.api.Gateway.dll
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.pdb
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\Servicios.api.Gateway.genruntimeconfig.cache
+C:\Users\ASUS VivoBook\OneDrive\Documentos\PruebaTecnicaVision\Travel\Servicios.api.Gateway\obj\Debug\net5.0\ref\Servicios.api.Gateway.dll
